@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sofii AI</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; background-color: #f8f9fa; }
+        h1 { color: #ff4081; }
+        p { color: #555; font-size: 18px; }
+        button { padding: 12px 25px; font-size: 16px; cursor: pointer; background-color: #ff4081; color: white; border: none; border-radius: 5px; }
+        button:hover { background-color: #e73370; }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Sofii AI!</h1>
+    <p>Your personal emotional AI assistant is here to help and chat with you.</p>
+    <button onclick="alert('Hello Ankush! Sofii is here 😊')">Talk to Sofii</button>
+</body>
+</html>
